@@ -1,0 +1,51 @@
+.partner_company {
+    /* Layout Properties */
+    position: relative;
+    top: -400px;
+    left: 0px;
+    width: 1440px;
+    height: 389px;
+    /* UI Properties */
+    background: transparent url("../img/Group 11323.png") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.partner_company .heading_info p {
+    padding-top: 77.5px;
+    padding-left: 0px;
+    text-align: center;
+    /* width: 529px; */
+    /* height: 34px; */
+    /* UI Properties */
+    font: normal normal 600 28px/51px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.xyz {
+    position: relative;
+    top: -500px;
+}
+
+.partner_company .description p {
+    /* Layout Properties */
+    padding-top: 0px;
+    padding-left: 0px;
+    /* height: 58px; */
+    /* UI Properties */
+    text-align: center;
+    font: normal normal medium 18px/27px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.partner_company .company_logo {
+    margin-top: 50px;
+    margin-left: 170px;
+    width: 1100px;
+    height: 55px;
+    background: transparent url("../img/Group 13555.png") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

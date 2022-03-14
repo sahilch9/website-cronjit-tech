@@ -1,0 +1,414 @@
+.card {
+  margin-left: 150px;
+  display: inline;
+}
+
+.service_card {
+  margin-top: 61px;
+  display: inline-flex;
+}
+
+.service_card .heading {
+  display: inline-flex;
+}
+
+.service_card .heading .logo {
+  margin-left: 19px;
+  width: 72px;
+  height: 72px;
+  /* UI Properties */
+  /* background: transparent url("../img/Group 13625.png") 0% 0% no-repeat
+    padding-box; */
+  opacity: 1;
+}
+
+.service_card .heading .content {
+  margin-left: 15px;
+}
+
+.service_card .heading .content .header {
+  width: 217px;
+  height: 49px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+
+.service_card .heading .content .details {
+  padding-top: 13px;
+  width: 217px;
+  height: 133px;
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #707070;
+  opacity: 1;
+}
+
+/* *****************Book a Call *******************/
+.bookCall {
+  width: 1440px;
+  height: 289px;
+  background: transparent url("../img/Group 13514.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.bookCall .div1 {
+  padding-left: 511px;
+  padding-top: 60px;
+  width: 416px;
+  height: 37px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.bookCall .div2 {
+  padding-left: 422px;
+  margin-top: 22px;
+  width: 596px;
+  height: 21px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal medium 18px/21px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.bookCall .div3 {
+  margin-left: 635px;
+  margin-top: 23px;
+  width: 170px;
+  height: 65px;
+  /* UI Properties */
+  background: #150734 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.bookCall .div3 .call {
+  margin-left: 24px;
+  margin-top: 22px;
+  width: 90px;
+  height: 21px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal 600 17px/28px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.bookCall .div3 .iconn {
+  margin-left: 12px;
+  margin-top: 24px;
+  width: 20px;
+  height: 19px;
+  background: transparent url("../img/contact.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.port {
+  display: inline-flex;
+  margin-left: 131px;
+}
+
+.portfolio_card {
+  margin-top: 88px;
+  margin-left: 26px;
+}
+
+.portfolio_card .img_part {
+  width: 364px;
+  height: 186px;
+  /* UI Properties */
+
+  opacity: 1;
+}
+
+.portfolio_card .heading_part {
+  margin-top: 24.85px;
+  width: 361px;
+  height: 63px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+
+.portfolio_card .info {
+  margin-top: 13.58px;
+  width: 343px;
+  height: 117px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #707070;
+  opacity: 1;
+}
+
+.portfolio_card .read_more {
+  /* margin-top: 6px; */
+  width: 101px;
+  height: 23px;
+  text-align: left;
+  font: normal normal medium 18px/21px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+/* *******************USE CASE DEVLOPMENT ******************/
+.usecase {
+  margin-top: 70px;
+  width: 1440px;
+  height: 984px;
+  background: #f7f8f7 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.usecase .heading {
+  margin-top: 27px;
+  margin-left: 328px;
+  display: inline-flex;
+}
+.usecase .logo {
+  width: 40px;
+  height: 55px;
+  /* UI Properties */
+  background: transparent url("../img/Touch Screen.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.usecase .header {
+  width: 717px;
+  height: 44px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.usecase .cases {
+  margin-left: 390px;
+  margin-top: 40px;
+  width: 658px;
+  height: 44px;
+  text-align: center;
+  font: normal normal medium 20px/30px Gilroy ☞;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
+
+.usecase .cardd_margin {
+  margin-left: 174px;
+}
+
+.usecase .cardd {
+  display: inline-flex;
+  margin-top: 40px;
+  /* margin-left: 174px; */
+}
+
+.usecase .cardd .logo {
+  width: 63px;
+  height: 63px;
+  opacity: 1;
+}
+
+.usecase .cardd .part2 {
+  margin-left: 25px;
+}
+
+.usecase .cardd .part2 .headingg {
+  width: 111px;
+  height: 26px;
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+.usecase .cardd .part2 .headingg {
+  width: 244px;
+  height: 52px;
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.usecase .cardd .part2 .detailss {
+  padding-top: 15px;
+  width: 237px;
+  height: 211px;
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+
+.usecase .collaborate {
+  margin-left: 376px;
+  margin-top: 72px;
+  width: 339px;
+  height: 62px;
+  background: #fcd02c 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.usecase .collaborate p {
+  padding-left: 90px;
+  padding-top: 19px;
+  width: 158px;
+  height: 25px;
+  text-align: left;
+  font: normal normal 600 20px/26px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.marketplace {
+  margin-left: 241px;
+}
+.marketplace .marketplace_heading {
+  margin-top: 90px;
+  display: inline-flex;
+}
+
+.marketplace .marketplace_heading .logo {
+  width: 52px;
+  height: 52px;
+  background: transparent url("../img/global-services.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.marketplace .marketplace_heading .heading {
+  margin-left: 16px;
+  width: 876px;
+  height: 37px;
+  text-align: center;
+  font: normal normal bold 28px/42px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.marketplace .after {
+  padding-left: 149px;
+  padding-top: 39px;
+  width: 672px;
+  height: 59px;
+  text-align: center;
+  font: normal normal medium 20px/30px Gilroy ☞;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
+
+/* ****************marketplace ********************/
+.marketplacee {
+  margin-left: 154px;
+  margin-top: 65px;
+  display: inline-flex;
+}
+
+.marketplacee_card {
+  display: inline-flex;
+}
+
+.marketplacee_card .logo {
+  width: 74px;
+  height: 74px;
+
+  opacity: 1;
+}
+
+.marketplacee_card .content {
+  margin-left: 28px;
+}
+
+.marketplacee_card .content_heading {
+  /* width: 102px;
+  height: 30px; */
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+
+.marketplacee_card .content .content_info {
+  padding-top: 10px;
+  width: 367px;
+  height: 132px;
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #707070;
+  opacity: 1;
+}
+
+/* ****************Development Step***************** */
+.dev_step {
+  margin-left: 148px;
+  top: 108px;
+  display: inline-flex;
+}
+
+.dev_step .step1 {
+  display: inline-flex;
+}
+.dev_step .step1 .p1 .loogo {
+  margin-top: 55px;
+  width: 86px;
+  height: 119px;
+
+  opacity: 1;
+}
+.dev_step .step1 .p1 .headline {
+  width: 319px;
+  height: 51px;
+  text-align: center;
+  font: normal normal bold 42px/52px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.dev_step .step1 .p2 {
+  margin-left: 43px;
+  width: 416px;
+  height: 516px;
+
+  opacity: 1;
+}
+
+.dev_step .step1 .p3 {
+  width: 319px;
+  margin-top: 43px;
+  height: 162px;
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #707070;
+  opacity: 1;
+}
